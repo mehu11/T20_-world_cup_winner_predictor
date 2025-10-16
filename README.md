@@ -8,7 +8,7 @@ The T20 World Cup Score Prediction project aims to predict the total runs scored
 
 #### The workflow for the T20 World Cup Score Prediction project is as follows:
 
-- ```Data Collection:``` Collect data on past T20 cricket matches including the team playing, runs scored, wickets taken, overs bowled, and other relevant information. This data can be sourced from various cricket databases, APIs or websites. ```DataSet Link 👉``` [Click Here](https://github.com/dhrupad17/T20-World-Cup-Score-Predictor/blob/main/info.csv)
+- ```Data Collection:``` Collect data on past T20 cricket matches including the team playing, runs scored, wickets taken, overs bowled, and other relevant information. This data can be sourced from various cricket databases, APIs or websites. 
 
 - ```Data Preprocessing:``` Clean and preprocess the data to ensure that it is consistent and accurate. This can involve tasks such as removing missing values, handling categorical variables, and feature engineering.
 
@@ -26,3 +26,4 @@ The T20 World Cup Score Prediction project aims to predict the total runs scored
 ## Website OverView:-
 
 ### ```Click Here to Visit the Website 👉``` [Tap to Predict Score](https://dhrupad17-t20-world-cup-score-predictor-app-6is1mk.streamlit.app/)
+
