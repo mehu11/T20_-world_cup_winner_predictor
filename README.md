@@ -23,7 +23,4 @@ The T20 World Cup Score Prediction project aims to predict the total runs scored
 - ```Deployment:``` Deploy the XGBoost model as a web application on StreamLit Cloud.
 
 
-## Website OverView:-
-
-### ```Click Here to Visit the Website 👉``` [Tap to Predict Score](https://dhrupad17-t20-world-cup-score-predictor-app-6is1mk.streamlit.app/)
 
